@@ -1,0 +1,10 @@
+@media screen and (max-width: 550px){
+    .todo {
+        min-width: 100vw!important;
+    }
+}
+
+.todo {
+    display: flex;
+    min-width: 50vw;
+}

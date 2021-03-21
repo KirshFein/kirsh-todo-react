@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+A project for getting to know react and interacting with firebase
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

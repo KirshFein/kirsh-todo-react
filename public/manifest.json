@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Todo app",
+  "name": "Todo app - setting goals",
+  "lang": "ru-RU",
   "icons": [
     {
       "src": "favicon.ico",
