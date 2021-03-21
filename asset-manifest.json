@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kirsh-todo-react/static/css/main.7960ae0f.chunk.css",
+    "main.js": "/kirsh-todo-react/static/js/main.28885753.chunk.js",
+    "main.js.map": "/kirsh-todo-react/static/js/main.28885753.chunk.js.map",
+    "runtime-main.js": "/kirsh-todo-react/static/js/runtime-main.e4671a64.js",
+    "runtime-main.js.map": "/kirsh-todo-react/static/js/runtime-main.e4671a64.js.map",
+    "static/js/2.b5259d15.chunk.js": "/kirsh-todo-react/static/js/2.b5259d15.chunk.js",
+    "static/js/2.b5259d15.chunk.js.map": "/kirsh-todo-react/static/js/2.b5259d15.chunk.js.map",
+    "index.html": "/kirsh-todo-react/index.html",
+    "static/css/main.7960ae0f.chunk.css.map": "/kirsh-todo-react/static/css/main.7960ae0f.chunk.css.map",
+    "static/js/2.b5259d15.chunk.js.LICENSE.txt": "/kirsh-todo-react/static/js/2.b5259d15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4671a64.js",
+    "static/js/2.b5259d15.chunk.js",
+    "static/css/main.7960ae0f.chunk.css",
+    "static/js/main.28885753.chunk.js"
+  ]
+}
