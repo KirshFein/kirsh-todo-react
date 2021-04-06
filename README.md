@@ -2,6 +2,8 @@
 
 A project for getting to know react and interacting with firebase
 
+- testing view: https://kirshfein.github.io/kirsh-todo-react/
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
